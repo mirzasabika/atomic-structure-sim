@@ -20,3 +20,9 @@ Simple, syllabus-aligned explanations
 React, TailwindCSS, Framer Motion
 
 Deployed on Vercel 
+
+--> Notes
+
+Focused on making concepts easy via visuals
+
+Designed for Class 10 level understanding
